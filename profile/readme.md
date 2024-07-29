@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/cantina-moronia/open-depot/main/mockups/sito.jpg">
+<img src="https://raw.githubusercontent.com/cantina-moronia/open-depot/main/ui-mockups/01_home_cantinamoronia_webmockup.jpg">
 
 ---
 
